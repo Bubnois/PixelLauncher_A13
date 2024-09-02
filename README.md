@@ -1,6 +1,6 @@
 # Systemless Pixel Launcher for AOSP-like Android 13 ROMs 
 Install: 
-Flash module in Magisk\KSU.
+Flash module in Kernel SU\Magisk.
 
 Tested on Topaz (Paranoid Android 13)
 ### Preview:
